@@ -1,4 +1,4 @@
-# Bell tasks
+# Tasks
 
 ## firstTask пакет -> работа с таблицей сотрудников
 
